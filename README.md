@@ -9,7 +9,7 @@
 ## MidSem-Assignment (25/09/2021)
   - 8 member team assignment to learn basics of Kubernetes, Ansible and Docker
   - Team Number 4
-  - Members 
+  - Members :
       - [Sreehari Premkumar](https://github.com/sreeharipremkumar/DevOps)
       - [Neha Mahindrakar](https://github.com/NehaMahindrakar/CS457_DevOps)
       - [Palshini B Limbani](https://github.com/Palshini-B-Limbani/devops#devops)
