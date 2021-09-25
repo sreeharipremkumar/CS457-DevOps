@@ -18,7 +18,7 @@
     5. Add users to EC2 instances with SSH Access – Ansible
     
     
-## Team Members 
+## Team Members :
    - [Sreehari Premkumar](https://github.com/sreeharipremkumar/DevOps)
    - [Neha Mahindrakar](https://github.com/NehaMahindrakar/CS457_DevOps)
    - [Palshini B Limbani](https://github.com/Palshini-B-Limbani/devops#devops)
