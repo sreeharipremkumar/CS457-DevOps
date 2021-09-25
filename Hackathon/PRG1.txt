@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Program 1 has been modified in master branch by programmer A (instruction3 ).
+=======
+Program 1 has been modified in Branch3 by programmer A. (instruction3)
+>>>>>>> Branch3

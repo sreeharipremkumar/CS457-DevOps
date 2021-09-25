@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+Program 2 has been modified 2
+
+Profit Loss
+=======
+Program 2 has been modified by Programmer B twice.
+
+Profit Correction.
+>>>>>>> Branch2
+
+
+PRG2 has been modified in branch 2 by programmer B
+
+Additional lines added after bug fix in branch 3.
+
+added for testing
