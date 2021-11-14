@@ -5,7 +5,8 @@
   - Install Jenkins and dependencies on Master
   - Configure Jenkins and create 2 slave node within Jenkins
   - Pass the Git repository in the slave node configuration to get the required files from.
-  - Slave 1 - Test server (configured with port 1234)      Slave 2 -Production Server (port 80)
+  - Slave 1 - Test server (configured with port 1234)  
+  - Slave 2 -Production Server (port 80)
   - Configure the node with Dockerfile build/run commands
   - Create a CI/CD pipeline so that production gets changes when the test approves of no errors
   - Use a webhook to get github commit updates onto the test server
