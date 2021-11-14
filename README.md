@@ -19,3 +19,6 @@
       - [Darshan R P](https://github.com/Darshandacchu/DevOps)
       - [Raghuprasad J N](https://github.com/RaghuPrasadJN/DevOps)
 
+
+## Final-Assignment (14/09/2021)
+  - Assignment to learn the CI/CD pipeline architecture of jenkins on a Master-Slave setup using Amazon Web Services EC2 instances
