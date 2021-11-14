@@ -6,11 +6,11 @@
 
 #### Assignment_2 
   - Setting upe CI/CD Jenkins pipeline on a Master-Slave setup using Amazon Web Services EC2 instances
-  - ## [LINK TO DOCKERFILE AND WEBSITE CODE](https://github.com/sreeharipremkumar/dev_jenkins)
+  - [LINK TO DOCKERFILE AND WEBSITE CODE](https://github.com/sreeharipremkumar/dev_jenkins)
 
  
     
-##
+
 ##
 ## Team Details :
 <pre>
